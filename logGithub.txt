@@ -1,0 +1,29 @@
+commit 33fe35c31fee2abdc1950dade68ba386fd061d2a
+Author: Nancyd01 <dahalnancy1@gmail.com>
+Date:   Mon May 6 18:01:30 2019 +0545
+
+    Password cracking using POSIX
+
+commit 5006b67cd13b32f8f6764b8ddef7154abb3f1c75
+Author: Nancyd01 <dahalnancy1@gmail.com>
+Date:   Mon May 6 17:55:19 2019 +0545
+
+    Linear regression using POSIX uplaoded
+
+commit 5a83656a418cb2ce4c9c975649646f57f452b38c
+Author: Nancyd01 <dahalnancy1@gmail.com>
+Date:   Mon May 6 17:53:55 2019 +0545
+
+    Image processing MPI uplaoded
+
+commit c014a1683a5d0255db9982a71816be6a34513eaa
+Author: Nancyd01 <dahalnancy1@gmail.com>
+Date:   Mon May 6 17:51:23 2019 +0545
+
+    MPI files added
+
+commit 2a0f7896699bd4da919d366d39a0dbd4e18c794e
+Author: Nancyd01 <dahalnancy1@gmail.com>
+Date:   Mon May 6 17:49:24 2019 +0545
+
+    Cuda file uploaded
